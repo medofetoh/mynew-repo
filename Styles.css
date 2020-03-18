@@ -1,0 +1,35 @@
+﻿
+/* Hotel Natoma Style Sheet 
+   File Name : Styles.css 
+   Name : Mohamed Hassan 
+    Date : 02/04/2018 
+   Html5 and Css3 illustrated Unit C , Independent  challenge 3
+
+
+*/
+
+
+
+
+
+ h1{
+     background-color:darkgreen;
+     color:white;
+
+}
+ h2{
+     color:darkgreen;
+     text-align:center;
+ }
+ p{
+     text-align:center;
+
+ }
+ footer>p{
+     text-align:right;
+ }
+ footer{
+     background-color:darkgreen;
+     
+ }
+ 
